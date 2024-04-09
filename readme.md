@@ -3,7 +3,7 @@
 Instalar sass
 
 ```bash
-  # npm install -g sass
+  npm install -g sass
 ```
 
 Compilar o SCSS para CSS
